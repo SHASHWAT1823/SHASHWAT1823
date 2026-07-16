@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Shashwat Srivastava
+# Hi there I'm Shashwat Srivastava
 
-A Final Year B.Tech (Electronics & Communication Engineering) @ Jaypee Institute of Information Technology, Noida who enjoys transforming ideas into working hardware prototypes by combining electronics, embedded programming, cloud computing and AI. I love solving real world engineering problems through technology.
+A Final Year B.Tech (Electronics & Communication Engineering) student @ Jaypee Institute of Information Technology, Noida, who enjoys transforming ideas into working hardware prototypes by combining electronics, embedded programming, cloud computing and AI. I love solving real world engineering problems through technology.
 
 Passionate about Embedded Systems, IoT, Cloud Services and AI powered Automation.
 
@@ -32,11 +32,10 @@ Passionate about Embedded Systems, IoT, Cloud Services and AI powered Automation
 - STM32 HAL & FreeRTOS
 - AWS Cloud Services
 - MQTT Protocol
-- Firmware Development Best Practices
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 
 - C
 - C++
@@ -46,7 +45,6 @@ Passionate about Embedded Systems, IoT, Cloud Services and AI powered Automation
 - ESP32
 - AWS
 - MQTT
-- Sensors & Interfacing
 - Cloud connected IoT Systems
 
 ---
@@ -80,7 +78,7 @@ An intelligent IoT based room monitoring system that collects environmental data
 
 ---
 
-### ❤️ Wirelessly Rechargeable Pacemaker
+### Wirelessly Rechargeable Pacemaker
 
 A biomedical engineering prototype demonstrating wireless power transfer for implantable medical devices to minimize battery replacement surgeries.
 
@@ -94,7 +92,7 @@ A biomedical engineering prototype demonstrating wireless power transfer for imp
 
 ---
 
-### 🔋 Battery Management System (BMS)
+### Battery Management System (BMS)
 
 An embedded battery monitoring system developed to improve battery safety, efficiency and reliability.
 
@@ -114,7 +112,7 @@ An embedded battery monitoring system developed to improve battery safety, effic
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
 ### Languages
 
@@ -124,7 +122,7 @@ An embedded battery monitoring system developed to improve battery safety, effic
 
 ### Embedded
 
-- Arduino
+- ESP32
 - Raspberry Pi
 - STM32
 
@@ -136,16 +134,9 @@ An embedded battery monitoring system developed to improve battery safety, effic
 - MQTT
 - Amazon Polly
 
-### Tools
-
-- Git
-- GitHub
-- Linux
-- VS Code
-
 ---
 
-## 🎯 Career Interests
+### Career Interests
 
 - Embedded Software Engineering
 - Firmware Development
@@ -156,6 +147,6 @@ An embedded battery monitoring system developed to improve battery safety, effic
 
 ---
 
-## 📫 Connect With Me
+### Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwatsrivastava1823) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akashashwat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashashwat1823@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shashwatsrivastava1823) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srivastava.1823@gmail.com) 
